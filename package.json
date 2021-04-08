@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangChau-Bao/nodejs_f8_blog.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "test",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "HoangDT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangChau-Bao/nodejs_f8_blog/issues"
+  },
+  "homepage": "https://github.com/HoangChau-Bao/nodejs_f8_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
