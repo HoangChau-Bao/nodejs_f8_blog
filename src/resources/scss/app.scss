@@ -1,13 +1,6 @@
 @import 'variables.scss';
-h1 {
-  color: $h1-color;
-}
 
-h2 {
-  color: blue;
-}
-
-h3 {
-  color: red;
-  font-size: 50px;
+.card-courses-item {
+  margin-top: 16px;
+  margin-right: 16px;
 }
